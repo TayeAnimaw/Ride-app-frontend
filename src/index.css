@@ -15,6 +15,7 @@
   --surface: #ffffff;
   --surface-alt: #f3f1ea;
   --border: #e7e4dc;
+  --surface-inverse: #0b1220;
 
   --shadow-sm: 0 1px 2px rgba(16, 24, 32, 0.06), 0 1px 1px rgba(16, 24, 32, 0.04);
   --shadow-md: 0 8px 24px rgba(16, 24, 32, 0.08), 0 2px 6px rgba(16, 24, 32, 0.05);

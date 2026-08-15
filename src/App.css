@@ -1313,7 +1313,7 @@
   position: relative;
   overflow: hidden;
   text-align: center;
-  background: var(--ink);
+  background: var(--surface-inverse);
   border-radius: var(--radius-lg);
   padding: 64px 32px;
 }
