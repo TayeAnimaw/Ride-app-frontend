@@ -31,7 +31,7 @@ export default function Footer() {
             <span className="brand-mark">
               <IconRoute width={20} height={20} strokeWidth={2.1} />
             </span>
-            <span className="brand-name">Gebeta Ride</span>
+            <span className="brand-name">Guzo Ride</span>
           </a>
           <p>{t('footer_tagline')}</p>
         </div>
@@ -51,7 +51,7 @@ export default function Footer() {
       </div>
 
       <div className="container footer-bottom">
-        <span>© {new Date().getFullYear()} Gebeta Ride. Addis Ababa pilot — working title.</span>
+        <span>© {new Date().getFullYear()} Guzo Ride. Addis Ababa pilot — working title.</span>
         <span className="footer-lang">English · አማርኛ</span>
       </div>
     </footer>

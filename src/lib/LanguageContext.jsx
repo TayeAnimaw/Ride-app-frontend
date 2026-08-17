@@ -12,8 +12,8 @@ const strings = {
   hero_h1_1: { en: 'Stop waiting for a taxi', am: 'ታክሲ ሲመጣ' },
   hero_h1_2: { en: "that isn't coming.", am: 'መጠበቅ ይብቃ።' },
   hero_sub: {
-    en: 'Gebeta Ride blends instant ride-hailing, driver-declared routes you can book ahead, and commuter subscription passes — one app, priced close to a normal taxi, not above it.',
-    am: 'ጌበታ ራይድ ፈጣን ታክሲ ጥሪ፣ አሽከርካሪዎች አስቀድመው የሚያሳውቁትን መንገድ ቦታ ማስያዝ እና ወርሃዊ የደንበኝነት ትኬቶችን በአንድ መተግበሪያ ያቀርባል — ከመደበኛ ታክሲ ዋጋ ጋር ተመጣጣኝ በሆነ ዋጋ።',
+    en: 'Guzo Ride blends instant ride-hailing, driver-declared routes you can book ahead, and commuter subscription passes — one app, priced close to a normal taxi, not above it.',
+    am: 'ጉዞ ራይድ ፈጣን ታክሲ ጥሪ፣ አሽከርካሪዎች አስቀድመው የሚያሳውቁትን መንገድ ቦታ ማስያዝ እና ወርሃዊ የደንበኝነት ትኬቶችን በአንድ መተግበሪያ ያቀርባል — ከመደበኛ ታክሲ ዋጋ ጋር ተመጣጣኝ በሆነ ዋጋ።',
   },
   hero_cta_primary: { en: 'Get the app', am: 'መተግበሪያውን ያውርዱ' },
   hero_cta_secondary: { en: 'I want to drive', am: 'አሽከርካሪ መሆን እፈልጋለሁ' },
@@ -23,8 +23,8 @@ const strings = {
 
   cta_h: { en: 'Be the first to ride.', am: 'መጀመሪያ ተሳፋሪ ይሁኑ።' },
   cta_sub: {
-    en: "Join the waitlist and we'll notify you the moment Gebeta Ride opens in your corridor.",
-    am: 'ወደ ማብቂያ ዝርዝር ይግቡ፤ ጌበታ ራይድ በአካባቢዎ ሲከፈት እናሳውቅዎታለን።',
+    en: "Join the waitlist and we'll notify you the moment Guzo Ride opens in your corridor.",
+    am: 'ወደ ማብቂያ ዝርዝር ይግቡ፤ ጉዞ ራይድ በአካባቢዎ ሲከፈት እናሳውቅዎታለን።',
   },
   cta_placeholder: { en: 'Phone number or email', am: 'ስልክ ቁጥር ወይም ኢሜይል' },
   cta_button: { en: 'Notify me', am: 'አሳውቀኝ' },

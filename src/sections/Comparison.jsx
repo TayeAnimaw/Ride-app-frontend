@@ -39,7 +39,7 @@ export default function Comparison() {
     <section className="section section-tinted">
       <div className="container">
         <SectionHeading
-          eyebrow="Why Gebeta Ride"
+          eyebrow="Why Guzo Ride"
           title="Built to close a real gap"
           subtitle="A positioning reference against typical ride-hailing apps and station-based taxis — validated periodically, not a fixed claim."
         />
@@ -51,7 +51,7 @@ export default function Comparison() {
                 <th></th>
                 <th>Typical ride-hailing</th>
                 <th>Station-based taxis</th>
-                <th className="col-us">Gebeta Ride</th>
+                <th className="col-us">Guzo Ride</th>
               </tr>
             </thead>
             <tbody>

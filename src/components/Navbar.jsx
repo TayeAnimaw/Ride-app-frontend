@@ -29,7 +29,7 @@ export default function Navbar() {
           <span className="brand-mark">
             <IconRoute width={20} height={20} strokeWidth={2.1} />
           </span>
-          <span className="brand-name">Gebeta Ride</span>
+          <span className="brand-name">Guzo Ride</span>
         </a>
 
         <nav className="nav-links">

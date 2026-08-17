@@ -28,7 +28,7 @@ export default function Holiday() {
         <SectionHeading
           eyebrow="Holiday & intercity"
           title="Holiday travel, without the scramble"
-          subtitle="Around Enkutatash, Meskel, Timkat, Genna and Fasika, intercity demand outpaces supply. Gebeta Ride turns that into bookable capacity, not a bus-station scrum."
+          subtitle="Around Enkutatash, Meskel, Timkat, Genna and Fasika, intercity demand outpaces supply. Guzo Ride turns that into bookable capacity, not a bus-station scrum."
         />
 
         <div className="holiday-chips">

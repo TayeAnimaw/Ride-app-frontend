@@ -4,7 +4,7 @@ import { IconChevronDown } from '../components/Icons'
 
 const faqs = [
   {
-    q: 'Which cities does Gebeta Ride operate in?',
+    q: 'Which cities does Guzo Ride operate in?',
     a: 'The pilot launches in Addis Ababa, focused on one or two high-demand corridors first, with national expansion planned once driver density supports it.',
   },
   {
